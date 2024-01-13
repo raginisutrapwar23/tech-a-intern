@@ -1,1 +1,1 @@
-# tech-a-intern
+# TAI-IP
